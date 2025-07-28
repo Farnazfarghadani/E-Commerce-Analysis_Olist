@@ -81,7 +81,7 @@ Tables used:
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](Screenshot (124).png)
+![Dashboard Screenshot](Screenshot%20(124).png)
 
 ---
 
@@ -98,7 +98,7 @@ Tables used:
 
 **Farnaz Farghadani**  
 Master’s Student in Digital Health | Data Analyst (Power BI + SQL)  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Farnazfarghadani)
+[LinkedIn](www.linkedin.com/in/farnaz-farghadani) | [GitHub](https://github.com/Farnazfarghadani)
 
 ---
 
