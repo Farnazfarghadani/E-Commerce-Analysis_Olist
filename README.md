@@ -40,7 +40,6 @@ The core business questions answered with SQL:
 | **What is the monthly revenue trend?** | Total sales per month |
 | **Top sellers by revenue?** | Sellers ranked by total product price |
 
-📂 All queries are stored in the [`/sql_queries`](./sql_queries) folder.
 
 ---
 
