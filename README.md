@@ -81,7 +81,7 @@ Tables used:
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](your-image-link-here)
+![Dashboard Screenshot](Screenshot (124).png)
 
 ---
 
