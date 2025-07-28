@@ -98,7 +98,7 @@ Tables used:
 
 **Farnaz Farghadani**  
 Master’s Student in Digital Health | Data Analyst (Power BI + SQL)  
-[LinkedIn](www.linkedin.com/in/farnaz-farghadani) | [GitHub](https://github.com/Farnazfarghadani)
+[LinkedIn](https://linkedin.com/in/farnaz-farghadani) | [GitHub](https://github.com/Farnazfarghadani)
 
 ---
 
